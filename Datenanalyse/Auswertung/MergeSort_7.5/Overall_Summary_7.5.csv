@@ -1,0 +1,6 @@
+Metric,Average,Median,StdDev
+Runtime,85.08,85.51,1.62
+RAM Idle,37.42,37.35,0.16
+CPU Idle,36.87,38.34,4.11
+Average RAM Usage,38.37,38.35,0.09
+Average CPU Usage,84.59,84.13,0.90
